@@ -1,6 +1,6 @@
 ###   Olá, boas vindas ao meu perfil!! 🤟
 
--Meu nome é Ryan Ribeiro 
+- Meu nome é Ryan Ribeiro 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
